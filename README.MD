@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-    Hello, Maksym!  
-    <solid>Fullstack developer</solid>
+    Hello, Maksym!  <br />
+    **Fullstack developer** <br />
     I write code and solve problems. I love System administration, TypeScript, C# and new technologies.
 </div>
 
