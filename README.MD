@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=nezuss&theme=tokyonight&hide_border=false" /><br />
-    <img src="https://github-readme-stats.vercel.app/api?username=nezuss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezuss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=nezuss&theme=tokyonight&hide_border=true" /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=nezuss&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezuss&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 Tech Stack:  
