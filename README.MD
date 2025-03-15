@@ -4,8 +4,8 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezuss&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-Hello, Maksym!  <br />
-*Fullstack developer* <br />
+## Hello, Maksym!<br />
+__Fullstack developer__<br />
 I write code and solve problems. I love System administration, TypeScript, C# and new technologies.
 
 ## Tech Stack:  
