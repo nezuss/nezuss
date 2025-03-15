@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-    <h2>Hello, Maksym!</p><br />
-    <p><solid>Fullstack developer</solid></p><br />
-    <p>I write code and solve problems. I love System administration, TypeScript, C# and new technologies.</p>
+    Hello, Maksym!  
+    <solid>Fullstack developer</solid>
+    I write code and solve problems. I love System administration, TypeScript, C# and new technologies.
 </div>
 
 ## Tech Stack:  
