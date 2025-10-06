@@ -1,15 +1,12 @@
 <h1 align="left">Hi 👋 What's up?</h1>
 <p align="left">I am <strong>Maksym</strong> and I'm a Software Engineer (Mostly Fullstack), From <img src="https://flagcdn.com/w20/ua.png" height="10" alt="csharp logo"  /> Ukraine</p>
-
-<div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=nezuss&theme=tokyonight&hide_border=true" /><br />
-    <img src="https://github-readme-stats.vercel.app/api?username=nezuss&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezuss&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+<img src="https://nirzak-streak-stats.vercel.app/?user=nezuss&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezuss&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 <h3 align="left">Programming Languages</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -61,7 +58,6 @@
 <h3 align="left">Software</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
 </div>
 <h3 align="left">Other</h3>
 <div align="left">
