@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋 What's up?</h1>
+<img width="100%" src="https://github.com/nezuss/nezuss/blob/main/logo.png?raw=true" />
+
 <p align="left">I am <strong>Maksym</strong> and I'm a Software Engineer (Mostly Fullstack), From <img src="https://flagcdn.com/w20/ua.png" height="10" alt="csharp logo"  /> Ukraine</p>
 <img src="https://nirzak-streak-stats.vercel.app/?user=nezuss&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezuss&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
